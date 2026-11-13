@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560a5ecf40f19af4cb4173bdeddaae89, type: 3}
+  m_Name: Mob
+  m_EditorClassIdentifier: Jain::Jain.Mob
+  MobName: "\uACE0\uBE14\uB9B0"
+  MobJoin: "\uC804\uC0AC"
+  hp: 20
+  mp: 10
+  damage: 2.5
+  defense: 0
